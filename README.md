@@ -1,5 +1,5 @@
 # Single LinkList python implementation
-### having different methods e.g:
+### Having Following methods:
 #### show()
 #### Delete()
 #### insert(self, data, position)
